@@ -1,6 +1,5 @@
 #include <stdio.h>
 #include <math.h>
-/* teste */
 int main(void)
 {
     int planet;
